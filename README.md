@@ -31,12 +31,6 @@
 ## Version
 
 **Current Version:** 12.0.1
-
-## Cloud Service
-
-- The optional cloud synchronization service is hosted on **Alibaba Cloud**, ensuring secure and reliable data backup and cross-device access.
-- All other functionalities operate offline — your data stays under your control.
-
 ## Support the Project
 
 YunmoNote is free and open-source. If you enjoy using it, consider sponsoring the project!  
