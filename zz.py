@@ -1,3 +1,6 @@
+#   Copyright LCMLCMLCMLCMM(LCM_MC) 2024-2025
+
+
 import sys
 from PyQt6.QtWidgets import QApplication, QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPushButton
 from PyQt6.QtCore import Qt
