@@ -9,7 +9,6 @@
 - **Clean & Minimal Interface**: Focus on your content without distractions.
 - **Powerful Editing Tools**: Syntax highlighting, search & replace, line numbering, and more.
 - **Offline-First Design**: All core services run locally on your device for maximum privacy and reliability.
-- **Cloud Sync (Optional)**: Seamlessly sync your notes across devices via our secure Alibaba Cloud-hosted service.
 - **Lightweight & Fast**: Built for performance, starts instantly and runs smoothly.
 - **Customizable Themes**: Personalize your workspace with light and dark themes.
 - **In-App Sponsorship**: Support the project directly from within the application.
